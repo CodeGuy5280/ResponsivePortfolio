@@ -18,5 +18,5 @@ In the end I believe that my portfolio looks well ok. I don't know if I will eve
 If I had more time I would look into embedding a video and getting a sticky nav bar to function properly.
 Hopefully my work will show that I can at least figure out how to make a website with bootstrap w/ outside resources I suppose.
 
-# Link to page
+# Link to webpage
 https://codeguy5280.github.io/ResponsivePortfolio/
