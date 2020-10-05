@@ -17,3 +17,6 @@ The project was a real struggle. I had to look up several guides to bootstrap ju
 In the end I believe that my portfolio looks well ok. I don't know if I will ever feel like a project is complete.
 If I had more time I would look into embedding a video and getting a sticky nav bar to function properly.
 Hopefully my work will show that I can at least figure out how to make a website with bootstrap w/ outside resources I suppose.
+
+# Link to page
+https://codeguy5280.github.io/ResponsivePortfolio/
