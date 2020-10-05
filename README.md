@@ -1,4 +1,4 @@
-# ResponsivePortfolio
+# Responsive-Portfolio - Hw#2
 
 Portfolio made using bootstrap.
 
